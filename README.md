@@ -1,6 +1,6 @@
 # Bash Script for Process Monitoring
 
-This project contains a set of files to monitor a process named 'test' on a Linux system using a bash script and systemd timers.
+This project contains a set of files to monitor a process named 'test' on a Linux system using a bash script and systemd timers
 
 ## Features
 
